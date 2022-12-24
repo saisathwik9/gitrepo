@@ -38,7 +38,7 @@ function App() {
         </Route>
       </Router>
     </>
-  );
+  )
 }
 
 export default App;
